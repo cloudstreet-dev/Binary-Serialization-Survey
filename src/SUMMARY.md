@@ -20,7 +20,7 @@
 - [Protobuf](./ch08-protobuf.md)
 - [Thrift](./ch09-thrift.md)
 - [Avro](./ch10-avro.md)
-- [Schema Evolution Compared]()
+- [Schema Evolution Compared](./ch11-evolution-compared.md)
 
 # Part IV — Zero-Copy and Random Access
 
