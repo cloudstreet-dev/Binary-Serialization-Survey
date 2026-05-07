@@ -43,7 +43,7 @@
 - [Borsh and SCALE](./ch22-borsh-scale.md)
 - [NBT](./ch23-nbt.md)
 - [ROS msgs](./ch24-ros.md)
-- [Bond]()
+- [Bond](./ch25-bond.md)
 - [Postcard and bincode]()
 - [Hessian]()
 
