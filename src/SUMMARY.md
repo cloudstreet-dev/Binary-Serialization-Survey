@@ -38,7 +38,7 @@
 
 # Part VI — Domain-Specific and Underappreciated
 
-- [ASN.1 (BER/DER/PER)]()
+- [ASN.1 (BER/DER/PER)](./ch20-asn1.md)
 - [XDR]()
 - [Borsh and SCALE]()
 - [NBT]()
