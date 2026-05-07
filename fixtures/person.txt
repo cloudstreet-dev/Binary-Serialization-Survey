@@ -1,0 +1,41 @@
+The Person Record — canonical exemplar.
+
+This file defines the values used in every wire-format hex tour
+throughout the book. The schema is presented in a deliberately
+format-neutral notation; each chapter translates it into whatever
+the format under discussion calls a record, message, struct,
+table, or document.
+
+Fields, in declaration order:
+
+  id          uint64            42
+  name        string            "Ada Lovelace"
+  email       optional string   "ada@analytical.engine"
+  birth_year  int32             1815
+  tags        list<string>      ["mathematician", "programmer"]
+  active      bool              true
+
+Notes on the values, kept here so each chapter can refer back:
+
+- `id` is small enough to fit in a single varint byte in formats
+  that use varints, and large enough to occupy more than one byte
+  in formats that do not.
+- `name` is 12 bytes of valid UTF-8, no multi-byte code points.
+  Length-prefixed and null-terminated formats both encode it
+  unambiguously.
+- `email` is optional and present. Chapters that distinguish
+  "field absent" from "field present with default value" will
+  encode this twice — once present, once absent — to show the
+  difference.
+- `birth_year` is positive and fits in a 16-bit signed integer.
+  Formats that ZigZag-encode signed integers, and formats that
+  do not, will both produce small payloads.
+- `tags` is an ordered list of two short strings, exercising
+  array-of-string encoding for every format.
+- `active` is a boolean. Formats that special-case booleans and
+  formats that fold them into a single-byte tag both appear.
+
+Reference encoding in JSON (one line per field, for readability)
+is in `person.json` next to this file. JSON is here only as a
+sanity check; it is never the answer to a question about wire
+size or speed.

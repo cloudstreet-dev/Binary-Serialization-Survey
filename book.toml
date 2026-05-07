@@ -1,0 +1,23 @@
+[book]
+title = "Survey of Binary Serialization Formats"
+authors = ["David Liedle"]
+description = "An opinionated tour of binary serialization formats: what they optimize for, what they give up, and how to read a wire format like a contract."
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/cloudstreet-dev/Binary-Serialization-Survey"
+edit-url-template = "https://github.com/cloudstreet-dev/Binary-Serialization-Survey/edit/main/{path}"
+site-url = "/Binary-Serialization-Survey/"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true
+limit-results = 25
+use-boolean-and = true

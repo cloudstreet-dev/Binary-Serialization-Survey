@@ -1,0 +1,8 @@
+{
+  "id": 42,
+  "name": "Ada Lovelace",
+  "email": "ada@analytical.engine",
+  "birth_year": 1815,
+  "tags": ["mathematician", "programmer"],
+  "active": true
+}
