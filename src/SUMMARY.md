@@ -6,7 +6,7 @@
 
 - [What Serialization Is, and Why "Binary" Is a Category](./ch01-what-serialization-is.md)
 - [The Axes](./ch02-the-axes.md)
-- [The Person Record]()
+- [The Person Record](./ch03-person-record.md)
 
 # Part II — The Self-Describing Family
 
