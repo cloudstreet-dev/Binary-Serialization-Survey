@@ -11,7 +11,7 @@
 # Part II — The Self-Describing Family
 
 - [MessagePack](./ch04-messagepack.md)
-- [CBOR]()
+- [CBOR](./ch05-cbor.md)
 - [BSON]()
 - [Smile, UBJSON, Amazon Ion]()
 
