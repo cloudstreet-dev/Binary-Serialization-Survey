@@ -42,7 +42,7 @@
 - [XDR](./ch21-xdr.md)
 - [Borsh and SCALE](./ch22-borsh-scale.md)
 - [NBT](./ch23-nbt.md)
-- [ROS msgs]()
+- [ROS msgs](./ch24-ros.md)
 - [Bond]()
 - [Postcard and bincode]()
 - [Hessian]()
