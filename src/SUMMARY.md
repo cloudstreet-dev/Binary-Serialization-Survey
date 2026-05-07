@@ -32,7 +32,7 @@
 # Part V — Columnar and Analytical
 
 - [Apache Arrow IPC](./ch16-arrow.md)
-- [Parquet]()
+- [Parquet](./ch17-parquet.md)
 - [ORC]()
 - [Feather]()
 
