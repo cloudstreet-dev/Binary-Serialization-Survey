@@ -50,7 +50,7 @@
 # Part VII — Choosing
 
 - [Decision Frameworks](./ch28-decision-frameworks.md)
-- [Anti-Patterns]()
+- [Anti-Patterns](./ch29-anti-patterns.md)
 - [Migration Paths]()
 
 # Part VIII — Rolling Your Own
