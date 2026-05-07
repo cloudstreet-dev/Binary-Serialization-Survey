@@ -40,7 +40,7 @@
 
 - [ASN.1 (BER/DER/PER)](./ch20-asn1.md)
 - [XDR](./ch21-xdr.md)
-- [Borsh and SCALE]()
+- [Borsh and SCALE](./ch22-borsh-scale.md)
 - [NBT]()
 - [ROS msgs]()
 - [Bond]()
