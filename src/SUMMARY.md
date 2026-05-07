@@ -44,7 +44,7 @@
 - [NBT](./ch23-nbt.md)
 - [ROS msgs](./ch24-ros.md)
 - [Bond](./ch25-bond.md)
-- [Postcard and bincode]()
+- [Postcard and bincode](./ch26-postcard-bincode.md)
 - [Hessian]()
 
 # Part VII — Choosing
