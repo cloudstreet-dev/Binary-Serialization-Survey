@@ -25,7 +25,7 @@
 # Part IV — Zero-Copy and Random Access
 
 - [FlatBuffers](./ch12-flatbuffers.md)
-- [Cap'n Proto]()
+- [Cap'n Proto](./ch13-capnproto.md)
 - [SBE]()
 - [rkyv]()
 
