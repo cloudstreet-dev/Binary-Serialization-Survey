@@ -13,7 +13,7 @@
 - [MessagePack](./ch04-messagepack.md)
 - [CBOR](./ch05-cbor.md)
 - [BSON](./ch06-bson.md)
-- [Smile, UBJSON, Amazon Ion]()
+- [Smile, UBJSON, Amazon Ion](./ch07-smile-ubjson-ion.md)
 
 # Part III — Schema-First Wire Formats
 
