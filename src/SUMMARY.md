@@ -51,7 +51,7 @@
 
 - [Decision Frameworks](./ch28-decision-frameworks.md)
 - [Anti-Patterns](./ch29-anti-patterns.md)
-- [Migration Paths]()
+- [Migration Paths](./ch30-migration-paths.md)
 
 # Part VIII — Rolling Your Own
 
