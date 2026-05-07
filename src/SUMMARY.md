@@ -1,6 +1,6 @@
 # Summary
 
-[Foreword]()
+[Foreword](./foreword.md)
 
 # Part I — Foundations
 
