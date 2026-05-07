@@ -4,7 +4,7 @@
 
 # Part I — Foundations
 
-- [What Serialization Is, and Why "Binary" Is a Category]()
+- [What Serialization Is, and Why "Binary" Is a Category](./ch01-what-serialization-is.md)
 - [The Axes]()
 - [The Person Record]()
 
