@@ -27,7 +27,7 @@
 - [FlatBuffers](./ch12-flatbuffers.md)
 - [Cap'n Proto](./ch13-capnproto.md)
 - [SBE](./ch14-sbe.md)
-- [rkyv]()
+- [rkyv](./ch15-rkyv.md)
 
 # Part V — Columnar and Analytical
 
