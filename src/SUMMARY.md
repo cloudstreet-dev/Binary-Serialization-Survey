@@ -33,7 +33,7 @@
 
 - [Apache Arrow IPC](./ch16-arrow.md)
 - [Parquet](./ch17-parquet.md)
-- [ORC]()
+- [ORC](./ch18-orc.md)
 - [Feather]()
 
 # Part VI — Domain-Specific and Underappreciated
