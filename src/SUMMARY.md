@@ -57,7 +57,7 @@
 
 - [When It's Defensible](./ch31-when-defensible.md)
 - [What You Owe Your Future Self](./ch32-future-self.md)
-- [A Worked Example]()
+- [A Worked Example](./ch33-worked-example.md)
 
 # Appendices
 
