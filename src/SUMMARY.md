@@ -45,7 +45,7 @@
 - [ROS msgs](./ch24-ros.md)
 - [Bond](./ch25-bond.md)
 - [Postcard and bincode](./ch26-postcard-bincode.md)
-- [Hessian]()
+- [Hessian](./ch27-hessian.md)
 
 # Part VII — Choosing
 
