@@ -18,7 +18,7 @@
 # Part III — Schema-First Wire Formats
 
 - [Protobuf](./ch08-protobuf.md)
-- [Thrift]()
+- [Thrift](./ch09-thrift.md)
 - [Avro]()
 - [Schema Evolution Compared]()
 
