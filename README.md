@@ -1,7 +1,7 @@
 # Survey of Binary Serialization Formats
 
-CloudStreet book #30. An opinionated tour through the binary serialization
-formats that move data between processes, machines, and disks.
+An opinionated tour through the binary serialization formats that move
+data between processes, machines, and disks.
 
 **Read it:** <https://cloudstreet-dev.github.io/Binary-Serialization-Survey/>
 
