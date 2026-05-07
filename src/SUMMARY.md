@@ -55,7 +55,7 @@
 
 # Part VIII — Rolling Your Own
 
-- [When It's Defensible]()
+- [When It's Defensible](./ch31-when-defensible.md)
 - [What You Owe Your Future Self]()
 - [A Worked Example]()
 
