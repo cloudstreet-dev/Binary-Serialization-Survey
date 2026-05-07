@@ -64,4 +64,4 @@
 - [A. Hex Tours](./appendix-a-hex-tours.md)
 - [B. Benchmark Methodology](./appendix-b-benchmarks.md)
 - [C. Glossary](./appendix-c-glossary.md)
-- [D. Further Reading]()
+- [D. Further Reading](./appendix-d-further-reading.md)
